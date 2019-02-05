@@ -6,4 +6,4 @@ The course introduces unsupervised learning, focussing on the two main facets of
 
 ## Get in touch
 
-[alexander.a@asidatascience.com](mailto: alexander.a@asidatascience.com)
+[alexander.a@asidatascience.com](mailto:alexander.a@asidatascience.com)
